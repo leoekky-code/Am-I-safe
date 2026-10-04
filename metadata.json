@@ -1,0 +1,6 @@
+{
+  "name": "Dark Web Exposed - GSAP Infographic Short",
+  "description": "Cinematic 60-second infographic short animated with GSAP, featuring real Web Audio synth drone, security camera HUD, synchronized captions, split-screen cyber attack visualizations, and defensive security protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
